@@ -1,0 +1,20 @@
+# LPTI
+1- Registrar (Curso Normal)
+1.1- O usúario, deve registrar-se no sitema.
+1.2- É preciso identificar-se por meio de login e senha.
+1.3-Informar login e senha. O login e a senha devem ter 16 caracteres e no minímo 4.
+1.4-O sistema deve conferir se as informações foram preenchidas corretamente.
+1.5- Se tudo estiver certo, é preciso retornar uma mensagem para usúario mostrando que está tudo correto.
+1.6-Depois de conferir o sistema salva as informações passadas.
+1- Registrar (Curso Alternativo) 
+1.1- O usuário, deve registrar-se no sistema.
+1.2- É preciso identificar-se por meio de login e senha.
+1.3- Caso o usuário forneça as informações de forma errada. O sistema deve avisá-lo. 
+1.4- Enquanto as informações não forem corrigidas o sistema não as salvará.
+1.5- Depois da correção feita pelo usuário, será retornado a mensagem de que está tudo correto.
+1.6-Assim, após  conferir o sistema salvará as informações passadas.
+
+2- Cadastrar Aluno
+2.1- O usuário precisará fornecer informações do aluno.
+2.2- As informações que precisam ser preenchidas são: Nome completo, turma e número de matricula. 
+2.3- O campo onde é fornecido o número de matricula deve ter o espaço limitado com 12 caracteres.  
