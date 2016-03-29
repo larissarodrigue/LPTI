@@ -18,18 +18,25 @@
 2.1- O usuário precisará fornecer informações do aluno.
 2.2- As informações que precisam ser preenchidas são: Nome completo, turma e número de matricula. 
 2.3- O campo onde é fornecido o número de matricula deve ter o espaço limitado com 12 caracteres.  
+2.4- Após preenchida as informações o sistema confere se estão corretas.
+2.5- Feito isso basta o usuário clicar em Salvar.
+2.6- O sistema irá salvar as informações do novo aluno.
 
+3- Excluir Aluno
+3.1- O usuário deve procurar o aluno na lista de alunos 
+3.2- Após encontrar, o usuário deve clicar no aluno e escolher a opção de excluir.
+3.3- Feito isso o sistema retorna a pergunta se usuário tem certeza se deseja excluir o aluno.
+3.4- Se o usuário confirmar o sistema exclui o aluno.
+  3- Excluir Aluno (Curso Alternativo)
+3.1- Caso o usário não confirme que deseja mesmo excluir o aluno o sistema retorna a página anterior. 
 
-1-	Consultar nota (Curso Normal)
-1.1-Para consultar a nota de algum aluno, é preciso consultar a atividade e selecionar a atividade que deseja saber a nota
-1.2-Depois de selecionada a atividade, o sistema irá mostrar a relação de todos os alunos que fizeram a atividade
-1.3-Dessa forma o usuário verá todos os alunos que fizeram a atividade e suas respectivas notas.
-
-1-Consultar nota (Curso Alternativo)
-1.1-O usuário irá clicar em consultar alunos
-1.2-Depois disso o sistema retornará todas as turmas que o usuário (Raphaella) da aula.
-1.3-Quando for clicado em alguma turma irá aparecer todos os alunos pertencentes a tal turma.
-
+4- Editar Aluno 
+4.1- O usuário deve procurar o aluno na lista de alunos.
+4.2- Após encontrar, o usuário clicar no aluno e escolher a opção de editar.
+4.3- O sistema irá mostar o aluno escolhido e suas informações.
+4.5- O usuário deve escolher e editar o campo que deseja.
+4.6- Após ser feitas as mudanças o usuário precisa salvar.
+4.7- O sistema salva as informações editadas.
 
 
 
