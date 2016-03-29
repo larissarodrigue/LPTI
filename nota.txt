@@ -17,3 +17,16 @@
 1.3	-Dessa forma basta o usuário clicar na nota que deseja editar.
 1.4- O usuário deve fornecer a nova nota.
 1.5- Feito isso, basta salvar o que foi editado.
+
+
+1-Consultar nota (Curso Normal)
+1.1-Para consultar a nota de algum aluno, é preciso consultar a atividade e selecionar a atividade que deseja saber a nota
+1.2-Depois de selecionada a atividade, o sistema irá mostrar a relação de todos os alunos que fizeram a atividade
+1.3-Dessa forma o usuário verá todos os alunos que fizeram a atividade e suas respectivas notas.
+
+1-Consultar nota (Curso Alternativo)
+1.1-O usuário irá clicar em consultar alunos
+1.2-Depois disso o sistema retornará todas as turmas que o usuário (Raphaella) da aula.
+1.3-Quando for clicado em alguma turma irá aparecer todos os alunos pertencentes a tal turma.
+
+
