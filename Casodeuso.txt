@@ -14,29 +14,7 @@
 1.5- Depois da correção feita pelo usuário, será retornado a mensagem de que está tudo correto.
 1.6-Assim, após  conferir o sistema salvará as informações passadas.
 
-2- Cadastrar Aluno
-2.1- O usuário precisará fornecer informações do aluno.
-2.2- As informações que precisam ser preenchidas são: Nome completo, turma e número de matricula. 
-2.3- O campo onde é fornecido o número de matricula deve ter o espaço limitado com 12 caracteres.  
-2.4- Após preenchida as informações o sistema confere se estão corretas.
-2.5- Feito isso basta o usuário clicar em Salvar.
-2.6- O sistema irá salvar as informações do novo aluno.
 
-3- Excluir Aluno
-3.1- O usuário deve procurar o aluno na lista de alunos 
-3.2- Após encontrar, o usuário deve clicar no aluno e escolher a opção de excluir.
-3.3- Feito isso o sistema retorna a pergunta se usuário tem certeza se deseja excluir o aluno.
-3.4- Se o usuário confirmar o sistema exclui o aluno.
-  3- Excluir Aluno (Curso Alternativo)
-3.1- Caso o usário não confirme que deseja mesmo excluir o aluno o sistema retorna a página anterior. 
-
-4- Editar Aluno 
-4.1- O usuário deve procurar o aluno na lista de alunos.
-4.2- Após encontrar, o usuário clicar no aluno e escolher a opção de editar.
-4.3- O sistema irá mostar o aluno escolhido e suas informações.
-4.5- O usuário deve escolher e editar o campo que deseja.
-4.6- Após ser feitas as mudanças o usuário precisa salvar.
-4.7- O sistema salva as informações editadas.
 
 
 
