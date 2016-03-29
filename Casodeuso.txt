@@ -42,5 +42,12 @@
 1.1-Para inserir uma nota é preciso escolher a atividade na qual deseja excluir alguma nota.
 1.2	-Depois de escolhida a atividade o sistema mostrará todos os alunos que fizeram a atividade e suas respectivas notas. 
 1.3	-Dessa forma basta o usuário clicar na nota que deseja excluir.
-1.4	- Feito isso, basta salvar o que foi excluído. 
+1.4	- Feito isso, basta salvar o que foi excluído.
+
+1- Editar Nota (Curso Normal)
+1.1-Para editar uma nota é preciso escolher a atividade na qual deseja editar alguma nota.
+1.2	-Depois de escolhida a atividade o sistema mostrará todos os alunos que fizeram a atividade e suas respectivas notas.
+1.3	-Dessa forma basta o usuário clicar na nota que deseja editar.
+1.4- O usuário deve fornecer a nova nota.
+1.5- Feito isso, basta salvar o que foi editado.
 
